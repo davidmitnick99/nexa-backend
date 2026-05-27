@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor
+pymongo
+dnspython
+pypdf
+google-generativeai
+pydantic
+python-multipart
